@@ -1,0 +1,42 @@
+{
+  "article": {
+    "art1": {
+      "content": "s opsd gposdg odsaig oidgjo sa gds gj hpsda ghsdoahg pdoshg osdah gosdagh osdg opsd gosdahgh g dsoihg sdgh opasdhag",
+      "intro": " sagjdsag opjdsg nposdn gosd gop g odság psagj sdagpsd psdg",
+      "status": "on",
+      "title": "s gsjdh gojsdgi ksdgkdsag "
+    },
+    "art2": {
+      "content": " opgo phgohfps gokhsogfo fop of ojdfnp ofngodfn gfno dg dsff dog ndfn gfdo gf",
+      "intro": "h bfdsbfdbsufb sdufb usdbfuds bf usdfu ",
+      "status": "on",
+      "title": " sgopsdf hpobgcg g vycy cygy7 "
+    }
+  },
+  "user": {
+    "hermenilda": {
+      "email": "herme@nilda.com",
+      "name": "Hemernilda Siriliano",
+      "password": "senha123",
+      "status": "on"
+    },
+    "jocasilva": {
+      "email": "joca@silva.com",
+      "name": "Joca da Silva",
+      "password": "senha123",
+      "status": "on"
+    },
+    "marineuza": {
+      "email": "mari@neuza.com",
+      "name": "Marineuza Siriliano",
+      "password": "senha123",
+      "status": "on"
+    },
+    "setembrino": {
+      "email": "set@brino.com",
+      "name": "Setembrino Trocatapas",
+      "password": "senha123",
+      "status": "on"
+    }
+  }
+}
